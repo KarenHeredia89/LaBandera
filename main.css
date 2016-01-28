@@ -5,8 +5,6 @@
 	background-color: red;
 }
 div {
-	height: 100%;
-	width: 15%;
 	margin: 1%;
 	display: inline-block;
 }
@@ -14,7 +12,7 @@ div {
 	padding-left: 5%;
 }
 .pdt5 {
-	padding: 0% 1% 4% 1%;
+	padding: 0% 1% 0% 1%;
 }
 .may {
 	text-transform: uppercase;
