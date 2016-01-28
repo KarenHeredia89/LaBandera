@@ -1,0 +1,21 @@
+.amarillo {
+	background-color: yellow;
+}
+.rojo {
+	background-color: red;
+}
+div {
+	height: 100%;
+}
+.pdl5 {
+	padding-left: 5%;
+}
+.pdt5 {
+	padding: 0% 0% 4%;
+}
+.may {
+	text-transform: uppercase;
+}
+p {
+	display: inline;
+}
