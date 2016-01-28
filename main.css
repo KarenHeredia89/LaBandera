@@ -6,12 +6,14 @@
 }
 div {
 	height: 100%;
+	width: 15%;
+	margin: 1%;
 }
 .pdl5 {
 	padding-left: 5%;
 }
 .pdt5 {
-	padding: 0% 0% 4%;
+	padding: 1% 1% 4% 1%;
 }
 .may {
 	text-transform: uppercase;
